@@ -1,2 +1,78 @@
 
 /* css */
+body {
+  background-color: #f78b8b;
+}
+
+.whitsimage {
+  background-image: url("https://www.whitsfrozencustard.com/wp-content/uploads/2015/07/slider12.jpg");
+  min-height: 300px;
+  background-size: auto;
+  background-attachment: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.usabilty {
+  font-family:"Arial Black", Gadget, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: #434da1;
+}
+
+.sydney {
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: #434da1;
+}
+
+.conduct {
+font-family: "Arial Black", Gadget, sans-serif;
+font-weight: bold;
+text-align: center;
+color: #434da1;
+}
+
+.col-md-7 {
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.col-md-1 {
+  font-family: "Arial Black", Gadget, sans-serif;
+  color: #434da1;
+  font-size: 70px;
+  padding-right: 100px;
+}
+
+.col-md-5 {
+  font-family: "Arial Black", Gadget, sans-serif;
+  color: white;
+}
+
+.col-sm-9 {
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.col-xs-15 {
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.col-sm-4 {
+  font-family: "Arial Black", Gadget, sans-serif;
+  color: #434da1;
+  font-size: 70px;
+  padding-right: 100px;
+}
+
+.col-xs-10 {
+  font-family: "Arial Black", Gadget, sans-serif;
+  color: #434da1;
+  font-size: 70px;
+  padding-right: 100px;
+}
+
+.row {
+  margin-top: 30px;
+  margin-bottom: 30px
+}
